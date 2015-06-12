@@ -1,0 +1,2 @@
+This repository will eventually contain complete bindings for the Godot engine.
+So far I have just started going through minor parts of the Godot source with c2nim, making at least Sprite mostly useable.
